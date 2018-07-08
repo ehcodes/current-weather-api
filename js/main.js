@@ -1,7 +1,3 @@
-//what can the user do?
-// what does the user expect?
-// What can the user see?
-
 $('form').on("submit", function(e){
   e.preventDefault();
 
@@ -21,15 +17,3 @@ $('form').on("submit", function(e){
     }
   })
 });
-
-
-
-
-
-
-
-
-
-
-
-// $(h1).attr("src", response.hdurl);
