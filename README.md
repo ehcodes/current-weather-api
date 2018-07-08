@@ -2,7 +2,7 @@
 
 ![screenshot of project](images/screenshot.png)
 
-##How to Use
+## How to Use
 You will have to visit https://openweathermap.org/api to obtain an API key and then must insert that key into the "apiKey" variable on line 6 in the main.js file.
 
 ## How It's Made:
